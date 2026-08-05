@@ -1,4 +1,4 @@
-# @hbeval/sdk
+# hb-eval-sdk-js
 
 Operational reliability for agentic AI, for Node.js.
 
@@ -7,7 +7,7 @@ whether it stayed reliable getting there — and stops it when resilience
 collapses.
 
 ```bash
-npm install @hbeval/sdk
+npm install hb-eval-sdk-js
 ```
 
 Node 18+. No runtime dependencies.
@@ -17,7 +17,7 @@ Node 18+. No runtime dependencies.
 ## Usage
 
 ```ts
-import { HBEvalClient } from '@hbeval/sdk'
+import { HBEvalClient } from 'hb-eval-sdk-js'
 
 const client = new HBEvalClient({
   apiKey: process.env.HBEVAL_API_KEY!,
