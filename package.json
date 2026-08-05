@@ -1,6 +1,6 @@
 {
   "name": "hb-eval-sdk-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Operational reliability for agentic AI — live monitoring, Safe Halt, and the HB-Eval wire protocol for Node.js.",
   "type": "module",
   "main": "./dist/index.js",
